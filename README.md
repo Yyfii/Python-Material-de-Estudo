@@ -16,12 +16,12 @@ Utilizei o seguinte editor, o replit, uma IDE in-browser, online.
 * 💻 Replit (in-browser IDE)
 
 ## Teoria
-* 📝 ![Conteúdos utilizados](assets/conteudo)
+* 📝 [Conteúdos utilizados](assets/conteudo)
 
 ## Exercícios
-* 📝 ![Problemas para treinar](assets/exercicios)
+* 📝 [Problemas para treinar](assets/exercicios)
 
 ## Referencias
 
-* 🗂️ ![Curso de Python da Udemy (prof. André )](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/)
+* 🗂️ [Curso de Python da Udemy (prof. André )](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/)
 
